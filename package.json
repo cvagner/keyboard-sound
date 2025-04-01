@@ -1,0 +1,21 @@
+{
+  "name": "keyboard-sound",
+  "version": "1.0.0",
+  "keywords": [],
+  "description": "Sons lors de la frappe au clavier (configurable).",
+  "author": "Charles-Henry Vagner",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cvagner/keyboard-sound.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-global-key-listener": "^0.3.0",
+    "play-sound": "^1.1.6"
+  }
+}
