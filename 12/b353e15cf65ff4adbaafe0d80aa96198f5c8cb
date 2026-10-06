@@ -1,0 +1,19 @@
+CLAUDE.md
+  s_179c664c661213::t_69eb8babf5935b 1-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "12b353e15cf65ff4adbaafe0d80aa96198f5c8cb",
+  "prompts": {},
+  "sessions": {
+    "s_179c664c661213": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b409ded7-8fd0-48f7-9bf9-bc467d3039c0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Charles-Henry Vagner <cva@atolcd.com>"
+    }
+  }
+}
