@@ -1,5 +1,5 @@
 {
-    "`": "piano/28-C-小字组.wav",
+    "backtick": "piano/28-C-小字组.wav",
     "1": "piano/29-C#-小字组.wav",
     "2": "piano/30-D-小字组.wav",
     "3": "piano/31-D#-小字组.wav",
@@ -10,8 +10,8 @@
     "8": "piano/36-G#-小字组.wav",
     "9": "piano/37-A-小字组.wav",
     "0": "piano/38-A#-小字组.wav",
-    "-": "piano/39-B-小字组.wav",
-    "=": "piano/40-C-小字1组.wav",
+    "minus": "piano/39-B-小字组.wav",
+    "equals": "piano/40-C-小字1组.wav",
 
     "q": "piano/42-D-小字1组.wav", 
     "w": "piano/43-D#-小字1组.wav",
@@ -23,8 +23,8 @@
     "i": "piano/49-A-小字1组.wav",
     "o": "piano/50-A#-小字1组.wav",
     "p": "piano/51-B-小字1组.wav",
-    "[": "piano/52-C-小字2组.wav",
-    "]": "piano/54-D-小字2组.wav",
+    "square bracket open": "piano/52-C-小字2组.wav",
+    "square bracket close": "piano/54-D-小字2组.wav",
 
     "a": "piano/52-C-小字2组.wav",
     "s": "piano/54-D-小字2组.wav",
@@ -35,8 +35,8 @@
     "j": "piano/59-G-小字2组.wav",
     "k": "piano/60-G#-小字2组.wav",
     "l": "piano/61-A-小字2组.wav",
-    ";": "piano/62-A#-小字2组.wav",
-    "'": "piano/63-B-小字2组.wav",
+    "semicolon": "piano/62-A#-小字2组.wav",
+    "quote": "piano/63-B-小字2组.wav",
 
     "z": "piano/68-E-小字3组.wav",
     "x": "piano/69-F-小字3组.wav",
@@ -45,6 +45,6 @@
     "b": "piano/72-G#-小字3组.wav",
     "n": "piano/73-A-小字3组.wav",
     "m": "piano/74-A#-小字3组.wav",
-    ",": "piano/75-B-小字3组.wav",
-    ".": "piano/76-C-小字4组.wav"
+    "comma": "piano/75-B-小字3组.wav",
+    "dot": "piano/76-C-小字4组.wav"
 }
