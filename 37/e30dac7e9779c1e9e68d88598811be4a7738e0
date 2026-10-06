@@ -1,0 +1,23 @@
+package.json
+  s_179c664c661213::t_69c0dfc10e21cd 14
+README.md
+  s_179c664c661213::t_2b9b4c4dc7f69e 13
+scripts/postinstall.js
+  s_179c664c661213::t_6573de1dba3335 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "37e30dac7e9779c1e9e68d88598811be4a7738e0",
+  "prompts": {},
+  "sessions": {
+    "s_179c664c661213": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b409ded7-8fd0-48f7-9bf9-bc467d3039c0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Charles-Henry Vagner <cva@atolcd.com>"
+    }
+  }
+}
