@@ -1,0 +1,24 @@
+index.js
+  s_179c664c661213::t_1c1e2319ddd2a5 3,20-30,32-39,41,43-52,54-69,73
+README.md
+  s_179c664c661213::t_b95c5fd320c3c8 12
+  s_179c664c661213::t_1b2e164235da42 39-57
+evdev.js
+  s_179c664c661213::t_e89adf5964129b 1-68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "85d64aaf4aa52c2597f03522d72fc138b9e94b32",
+  "prompts": {},
+  "sessions": {
+    "s_179c664c661213": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b409ded7-8fd0-48f7-9bf9-bc467d3039c0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Charles-Henry Vagner <cva@atolcd.com>"
+    }
+  }
+}
