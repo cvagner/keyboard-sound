@@ -10,7 +10,7 @@ Librairies :
 
 Solution testée avec :
 * Linux
-* Mac : rendre exécutable le script `node_modules/.../????`.
+* Mac (le serveur de touches est rendu exécutable à l'installation par `scripts/postinstall.js`)
 * Windows avec gitbash et powershell : installer un lecteur sans interface graphique (ex : `mplayer` dans le PATH)
 
 Installation :
