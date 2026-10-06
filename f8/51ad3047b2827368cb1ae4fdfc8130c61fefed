@@ -1,0 +1,19 @@
+config/piano-harmonie2.json
+  s_179c664c661213::t_34498581ed464a 3,16,18,20,27-29,33,35-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f851ad3047b2827368cb1ae4fdfc8130c61fefed",
+  "prompts": {},
+  "sessions": {
+    "s_179c664c661213": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b409ded7-8fd0-48f7-9bf9-bc467d3039c0",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Charles-Henry Vagner <cva@atolcd.com>"
+    }
+  }
+}
