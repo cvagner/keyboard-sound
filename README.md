@@ -43,7 +43,7 @@ Sous Wayland, `node-global-key-listener` ne capte que les frappes destinées aux
 Ces périphériques appartiennent à `root:input` (mode `660`). Pour un essai, donner la lecture à son utilisateur jusqu'au prochain redémarrage ou débranchement du clavier :
 ```sh
 ls -l /dev/input/by-path/*-event-kbd   # repérer le clavier, ex : -> ../event2
-sudo setfacl -m u:$USER:r /dev/input/event2
+sudo setfacl -m "u:${USER}:r" /dev/input/event2
 ```
 
 ⚠ Ajouter son utilisateur au groupe `input` rend l'accès permanent, mais permet alors à tout processus lancé sous ce compte de lire toutes les frappes de tous les claviers, mots de passe compris.
